@@ -2,7 +2,7 @@
 
 TecKBC (Technical KBC)
 
-TeKBC is like a KBC game with technical/programming questions
+TecKBC is like a KBC game with technical/programming questions
 
 All the questions are written in a "Quiz.txt" file and questions are selected at random
 
